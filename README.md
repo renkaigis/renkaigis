@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/博客-Blog-blue?logo=)](http://blog.renkaigis.com)
 [![](https://img.shields.io/badge/GitHub-renkaigis-yellowgreen?logo=github)](https://github.com/renkaigis)
 [![](https://img.shields.io/badge/简历-Resume-ff69b4?logo=personio)](http://resume.renkaigis.com)
-[![](https://img.shields.io/badge/相册-Photo-green?logo=googlephotos)](http://photo.renkaigis.com)
+[![](https://img.shields.io/badge/相册-Photo-green?logo=googlephotos&logoColor=white)](http://photo.renkaigis.com)
 
 
 </p>
@@ -18,9 +18,9 @@
 <p>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-brightgreen?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFC107?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23FFC107&color=%23FFC107)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-blue?style=flat-square&logo=Vue.js&logoColor=success)
   
 </p>
 
