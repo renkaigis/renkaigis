@@ -22,7 +22,7 @@
 [![R](https://img.shields.io/badge/-R-%232c3e50?style=flat-square&logo=r&logoColor=9cf)](#)
 [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](#)
 [![Matlab](https://img.shields.io/badge/-Matlab-%232c3e50?style=flat-square&logo=numpy&logoColor=ff69b4)](#)
-[![Java](https://img.shields.io/badge/-Java-%232c3e50?style=flat-square&logo=java&logoColor=brightgreen)](#)
+[![Java](https://img.shields.io/badge/-Java-%232c3e50?style=flat-square&logo=CoffeeScript&logoColor=lightblue)](#)
 [![SpringBoot](https://img.shields.io/badge/-SpingBoot-%232c3e50?style=flat-square&logo=springboot)](#)
   
 </p>
