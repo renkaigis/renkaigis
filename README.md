@@ -4,8 +4,8 @@
 
 <p>
 
-[![](https://img.shields.io/badge/个人主页-renkaigis.cn-blueviolet?logo=)](http://renkaigis.cn)
-[![](https://img.shields.io/badge/博客-Blog-blue?logo=)](http://blog.renkaigis.com)
+[![](https://img.shields.io/badge/个人主页-renkaigis.cn-blueviolet?logo=Kongregate)](http://renkaigis.cn)
+[![](https://img.shields.io/badge/博客-Blog-blue?logo=rss)](http://blog.renkaigis.com)
 [![](https://img.shields.io/badge/GitHub-renkaigis-yellowgreen?logo=github)](https://github.com/renkaigis)
 [![](https://img.shields.io/badge/简历-Resume-ff69b4?logo=personio)](http://resume.renkaigis.cn)
 [![](https://img.shields.io/badge/相册-Photo-green?logo=googlephotos&logoColor=white)](http://photo.renkaigis.com)
@@ -29,9 +29,9 @@
 
 <p>
 
-[![ArcGIS](https://img.shields.io/badge/-ArcGIS-%231a202c?style=flat-square&logo=googlemaps)](#)
+[![ArcGIS](https://img.shields.io/badge/-ArcGIS-%231a202c?style=flat-square&logo=Origin)](#)
 [![Erdas](https://img.shields.io/badge/-Erdas-%231a202c?style=flat-square&logo=googleplay&logoColor=red)](#)
-[![GEE](https://img.shields.io/badge/-GEE-%231a202c?style=flat-square&logo=gridsome)](#)
+[![GEE](https://img.shields.io/badge/-GEE-%231a202c?style=flat-square&logo=GoogleEarth)](#)
 [![ENVI](https://img.shields.io/badge/-ENVI-%231a202c?style=flat-square&logo=plangrid&logoColor=orange)](#)
 
 </p>
