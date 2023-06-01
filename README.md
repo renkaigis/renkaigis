@@ -7,13 +7,13 @@
 [![](https://img.shields.io/badge/个人主页-renkaigis.cn-blueviolet?logo=Kongregate)](https://renkaigis.cn)
 [![](https://img.shields.io/badge/博客-Blog-blue?logo=rss)](https://blog.renkaigis.cn)
 [![](https://img.shields.io/badge/GitHub-renkaigis-yellowgreen?logo=github)](https://github.com/renkaigis)
-[![](https://img.shields.io/badge/简历-e-CV-ff69b4?logo=personio)](https://resume.renkaigis.cn)
+[![](https://img.shields.io/badge/简历-CV-ff69b4?logo=personio)](https://resume.renkaigis.cn)
 [![](https://img.shields.io/badge/相册-Photo-green?logo=googlephotos&logoColor=white)](https://photo.renkaigis.cn)
 
 
 </p>
 
-# 𝙎𝙠𝙞𝙡𝙡𝙨
+## 𝙎𝙠𝙞𝙡𝙡𝙨
 
 
 
