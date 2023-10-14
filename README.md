@@ -1,6 +1,6 @@
 <div align=center>
 
-# <font color=red>𝒓𝒆𝒏𝒌𝒂𝒊𝒈𝒊𝒔</font>
+# 𝒓𝒆𝒏𝒌𝒂𝒊𝒈𝒊𝒔
 
 <p>
 
