@@ -21,9 +21,10 @@
 
 [![R](https://img.shields.io/badge/-R-%232c3e50?style=flat-square&logo=r&logoColor=9cf)](#)
 [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](#)
-[![Matlab](https://img.shields.io/badge/-Matlab-%232c3e50?style=flat-square&logo=numpy&logoColor=ff69b4)](#)
 [![Java](https://img.shields.io/badge/-Java-%232c3e50?style=flat-square&logo=CoffeeScript&logoColor=lightblue)](#)
 [![SpringBoot](https://img.shields.io/badge/-SpingBoot-%232c3e50?style=flat-square&logo=springboot)](#)
+[![Matlab](https://img.shields.io/badge/-Matlab-%232c3e50?style=flat-square&logo=numpy&logoColor=ff69b4)](#)
+
   
 </p>
 
@@ -33,6 +34,13 @@
 [![Erdas](https://img.shields.io/badge/-Erdas-%231a202c?style=flat-square&logo=googleplay&logoColor=red)](#)
 [![GEE](https://img.shields.io/badge/-GEE-%231a202c?style=flat-square&logo=GoogleEarth)](#)
 [![ENVI](https://img.shields.io/badge/-ENVI-%231a202c?style=flat-square&logo=plangrid&logoColor=orange)](#)
+
+</p>
+
+<p>
+
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-hotpink?style=flat-square&logo=intellijidea&logoColor=black)](#)
+[![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-%232c3e50?style=flat-square&logo=adobeillustrator)](#)
 
 </p>
 
